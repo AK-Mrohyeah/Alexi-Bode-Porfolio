@@ -1,2 +1,2 @@
 # Alexi-Bode-Porfolio
-Some projects that I've worked
+Some projects that I've worked on
